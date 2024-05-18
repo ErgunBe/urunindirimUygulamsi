@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\Ürün\Ürün\obj\Debug\Ürün.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\Ürün\Ürün\obj\Debug\Ürün.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\Ürün\Ürün\bin\Debug\Ürün.exe.config
+C:\Users\VULKAN\Desktop\udemy\Ürün\Ürün\bin\Debug\Ürün.exe
+C:\Users\VULKAN\Desktop\udemy\Ürün\Ürün\bin\Debug\Ürün.pdb
+C:\Users\VULKAN\Desktop\udemy\Ürün\Ürün\obj\Debug\Ürün.exe
+C:\Users\VULKAN\Desktop\udemy\Ürün\Ürün\obj\Debug\Ürün.pdb
